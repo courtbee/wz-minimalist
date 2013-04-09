@@ -32,15 +32,7 @@ If a legacy version is not working, please let me know. However, I can only test
 
 Look, I get it. Trying to do version control on images is silly. I've never tried it, but what the heck, right? It's there and it's an easy way to distribute this project. Maybe there is a better place, but I really wanted to make sure people could easily obtain source files.
 
-## License for these specific derivative maps [CC](http://creativecommons.org/licenses/by-nc/3.0/)
+## License
 
-You are free to:
-
-* Share — copy, distribute, transmit the work
-* Remix — adapt the work
-
-As long as you:
-
-* Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
-*  You may not use this work for commercial purposes. 
+Creative Commons (YEAH!) — [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/)
 
