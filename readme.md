@@ -1,6 +1,3 @@
-I no longer play SWTOR.
-=======================
-
 ## WZ Minimalist Maps
 
 A set of minimalist [SWTOR](http://www.swtor.com) warzone maps.
