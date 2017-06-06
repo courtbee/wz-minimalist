@@ -1,3 +1,5 @@
+## I STOPPED PLAYING THIS GAME and will no longer be updating warzone maps.
+
 ## WZ Minimalist Maps
 
 A set of minimalist [SWTOR](http://www.swtor.com) warzone maps.
